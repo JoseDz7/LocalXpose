@@ -24,3 +24,24 @@
 
 ## finalized :
 ![Image text](https://github.com/piratainformatico2/LocalXpose/blob/main/images/Screenshot_20210930-210636.png)
+
+## Instalacion :
+
+~~~
+https://github.com/piratainformatico2/packages
+~~~
+
+* `apt update && apt upgrade -y`
+
+* `git clone https://github.com/piratainformatico2/packages`
+
+* `cd packages`
+
+* `chmod +x *`
+
+* `./packages.sh`
+
+---
+###### ` Puedes desofuscar, pero no copiar!! ` 
+###### `By: José Díaz +52 2283821202` 🤠🤠
+---
