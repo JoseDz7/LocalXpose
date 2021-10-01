@@ -28,12 +28,12 @@
 ## Instalacion :
 
 ~~~
-https://github.com/piratainformatico2/packages
+https://github.com/piratainformatico2/LocalXpose
 ~~~
 
 * `apt update && apt upgrade -y`
 
-* `git clone https://github.com/piratainformatico2/packages`
+* `git clone https://github.com/piratainformatico2/LocalXpose`
 
 * `cd packages`
 
