@@ -6,3 +6,13 @@
 <details>
 <summary> ⚡ José Díaz ⚡ </summary>
 <br>
+
+- Hola Que tal soy José Díaz o sharkcode Mi objetivo es ser reconocido en la comunidad de la programación ⚡
+
+- Este repositorio lo hice con mucho mucho cariño, para todos ustedes que son de termux una terminal de Linux para Android 🎮
+
+- Si deseas contactarme >>> +52 2283821202 (MX) 🇲🇽
+
+- Si deseas apollarme con una estrella en mis repositorios >>> [sharkcode](https://github.com/piratainformatico2)
+
+</details
