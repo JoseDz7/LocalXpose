@@ -35,11 +35,11 @@ https://github.com/piratainformatico2/LocalXpose
 
 * `git clone https://github.com/piratainformatico2/LocalXpose`
 
-* `cd packages`
+* `cd LocalXpose`
 
 * `chmod +x *`
 
-* `./packages.sh`
+* `./Local.sh`
 
 ---
 ###### ` Puedes desofuscar, pero no copiar!! ` 
