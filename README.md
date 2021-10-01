@@ -23,4 +23,4 @@
 ![Image text](https://github.com/piratainformatico2/LocalXpose/blob/main/images/Screenshot_20210930-210621.png)
 
 ## finalized :
-![Image text](
+![Image text](https://github.com/piratainformatico2/LocalXpose/blob/main/images/Screenshot_20210930-210636.png)
