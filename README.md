@@ -45,5 +45,5 @@ https://github.com/piratainformatico2/LocalXpose
 
 ---
 ###### ` Puedes desofuscar, pero no copiar!! ` 
-###### `By: José Díaz +52 2283821202` 🤠🤠
+###### `By: José Díaz +52 2283821202` 🇲🇽🇲🇽
 ---
